@@ -1,5 +1,8 @@
 # Math-105LA-LB-MATLAB-files
 Assignments for Math 105A/LA: Numerical Analysis I and Math 105B/LB: Numerical Analysis II
+
+(Note that symmgauss.m, symmjacobi.m, symmpower.m, and symmSOR.m are part of the MATH 105LA FINAL PROJECT)
+
 Included are functions for implementing:
 - The bisection method (bisection.m)
 - Newton's method (newton.m)
